@@ -1,0 +1,33 @@
+2024-12-17 21:28:40,782 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-17 21:29:13,229 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HelloWorld:0.0.1-SNAPSHOT @ C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\pom.xml.
+2024-12-17 21:29:14,547 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2024-12-17 21:29:14,548 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2024-12-17 21:29:14,558 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2024-12-17 21:29:14,570 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2024-12-17 21:29:15,950 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-12-17 21:29:15,954 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-17 21:29:16,526 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HelloWorld:0.0.1-SNAPSHOT @ C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\pom.xml.
+2024-12-17 21:29:16,917 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2024-12-17 21:29:16,918 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2024-12-17 21:29:16,918 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2024-12-17 21:29:16,920 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2024-12-17 21:29:17,917 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-12-17 21:29:18,924 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-17 21:29:18,950 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:29:18,954 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\src\test\resources
+2024-12-17 21:29:38,780 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-17 21:29:38,798 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:29:38,801 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\src\test\resources
+2024-12-17 21:29:41,062 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:29:41,064 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:29:41,069 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\src\test\resources
+2024-12-17 21:30:21,514 [Worker-6: Tabnine initializing] WARN  io.sentry.Sentry - Overwriting statically stored SentryClient instance SentryClient{release='0.2.4.202110040603', dist='null', environment='production', serverName='null', tags={ideVersion=4.13.0.202112031748-RELEASE, os=Windows 10, osVersion=10.0, jvmVersion=17.0.1, ide=Spring Tool Suite 4}, mdcTags=[], extra={}, connection=io.sentry.connection.AsyncConnection@2f5d22e9, builderHelpers=[io.sentry.event.helper.ContextBuilderHelper@16dcd57e], contextManager=io.sentry.context.SingletonContextManager@3ae43eda, uncaughtExceptionHandler=null} with SentryClient{release='0.2.4.202110040603', dist='null', environment='production', serverName='null', tags={}, mdcTags=[], extra={}, connection=io.sentry.connection.AsyncConnection@72bdda67, builderHelpers=[io.sentry.event.helper.ContextBuilderHelper@34b1f4b3], contextManager=io.sentry.context.SingletonContextManager@4436a07e, uncaughtExceptionHandler=null}.
+2024-12-17 21:30:22,098 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-17 21:30:22,117 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:30:22,121 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\src\test\resources
+2024-12-17 21:32:59,021 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-17 21:32:59,027 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-17 21:32:59,029 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld\src\test\resources
+2024-12-17 21:33:05,447 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-12-17 21:33:18,276 [Worker-4: Launching HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\RAHUSHAI\Documents\DemoJenkinsProject\HelloWorld
+2024-12-17 21:33:18,277 [Worker-4: Launching HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install compile -Dstyle.color=always
