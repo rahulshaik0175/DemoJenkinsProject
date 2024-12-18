@@ -13,7 +13,7 @@ public class HelloWorlController {
 
 	@GetMapping("/greet")
 	public String greet() {
-		return "Greetings from Spring Boot!";
+		return "Hi Team, Good Afternoon!";
 	}
 
 }
